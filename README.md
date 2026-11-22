@@ -4,8 +4,10 @@ Taller 5 · Unidad 2 · Programación Orientada a Objetos · Universidad Coopera
 
 Sistema en **Python 3.10+** y **Tkinter** (librería nativa, sin dependencias externas) que modela la gestión de pacientes, médicos, horarios y citas de un centro médico, según el diagrama de clases del taller.
 
-**Integrantes:** _[Nombres completos]_  
-**Docente:** _[Nombre del docente]_  
+**Integrantes:** Freddy Duarte
+
+**Docente:** Gustavo Gómez
+
 **Video de sustentación:** _[Enlace]_
 
 ## Estructura del proyecto
